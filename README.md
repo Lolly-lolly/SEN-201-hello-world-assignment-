@@ -1,6 +1,6 @@
 # SEN-201-hello-world-assignment-
 
-Name: Azeez Atilola Arafat
+Name: Azeez Atilola
 Matric: 25/18022
 Department: Computer science
 
